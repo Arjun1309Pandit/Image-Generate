@@ -1,11 +1,11 @@
 {
   "name": "image-generate",
   "version": "1.0.0",
-  "description": "Welcome to the Unsplash Clone! This web application is designed to replicate the popular Unsplash platform, allowing users to discover and explore a vast collection of high-quality, royalty-free images. Powered by HTML, CSS, and JavaScript, the Unsplash Clone provides a seamless and intuitive experience for image browsing.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.HTML"
+    "start": "parcel index.html"
   },
   "author": "",
   "license": "ISC",
@@ -13,8 +13,5 @@
     "parcel": "^2.12.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "process": "^0.11.10"
   }
 }
